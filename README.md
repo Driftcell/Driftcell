@@ -1,4 +1,4 @@
-### <div align="center">I'm Driftcell, you can call me 逃生舱, a student from Zhejiang Sci-Tech University</div>  
+### <div align="center">I'm Driftcell, you can call me 逃生舱 or 逃老师, whatever!</div>  
   
 
 - 🔭 I’m currently learning Rust  
@@ -65,27 +65,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/helio609" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/helio609" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/helio609" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@helio609" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center">
