@@ -7,7 +7,7 @@
 - ❓ Ask me about anything related technologies  
   
 
-- 😶‍🌫️ driftcell.dev@outlook.com  
+- 😶‍🌫️ driftcell@icloud.com  
   
 
 <br/>  
